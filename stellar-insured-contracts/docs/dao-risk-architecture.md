@@ -221,7 +221,7 @@ risk_exposure = 5,000,000 / 8,000,000 = 0.625
 coverage_ratio = 8,500,000 / 5,000,000 = 1.70
 capital_committed = 500,000 + 200,000 + (10,000,000 - 8,500,000) = 2,200,000
 liquidity_utilization = 2,200,000 / 10,000,000 = 0.22
-slashing_score ≈ 0.10
+slashing_score approx 0.10
 ```
 
 Assessment:
@@ -252,7 +252,7 @@ risk_exposure = 5,600,000 / 5,800,000 = 0.97
 coverage_ratio = 6,800,000 / 5,600,000 = 1.21
 capital_committed = 1,000,000 + 600,000 + 3,200,000 = 4,800,000
 liquidity_utilization = 4,800,000 / 10,000,000 = 0.48
-slashing_score ≈ 0.28
+slashing_score approx 0.28
 ```
 
 Assessment:
@@ -283,7 +283,7 @@ risk_exposure = 4,600,000 / 2,200,000 = 2.09
 coverage_ratio = 3,600,000 / 4,600,000 = 0.78
 capital_committed = 1,400,000 + 900,000 + 6,400,000 = 8,700,000
 liquidity_utilization = 8,700,000 / 10,000,000 = 0.87
-slashing_score ≈ 0.79
+slashing_score approx 0.79
 ```
 
 Assessment:
